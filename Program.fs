@@ -26,3 +26,5 @@ let main argv =
     |> List.iter (fun (expr, result) -> printfn "(%s) = %A" expr result)
     Console.ReadLine() |> ignore
     0 // return an integer exit code
+
+penis
